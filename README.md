@@ -1,2 +1,2 @@
 # learnDemo
-this project created for learning Git
+this project created for learning Git.
